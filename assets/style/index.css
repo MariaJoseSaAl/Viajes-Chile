@@ -11,7 +11,6 @@ body {
     background-color: transparent;
 }
 .navbar-nav{
-    background-color: #000;
     text-align: center;
 }
 .icono {
@@ -25,6 +24,20 @@ body {
 }
 .separador{
     background-color: #25a3b7;
-    color: #25a3b7;
     margin-bottom: 2.5rem;
+}
+.mensaje{
+    height: 80px;
+}
+#enviar {
+    margin-top: 10%;
+}
+.pie-pagina {
+    background-color: #25a3b7;
+    color: #ffffff;
+    font-size: 24px;
+}
+.redes-sociales a{
+    font-size: 24px;
+    color: #ffffff;
 }
