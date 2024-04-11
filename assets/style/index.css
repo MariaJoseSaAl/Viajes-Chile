@@ -1,0 +1,30 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background: #000000;
+    color: #ffffff;
+}
+.navbar {
+    background-color: transparent;
+}
+.navbar-nav{
+    color: white;
+    background-color: transparent;
+}
+.navbar-nav{
+    background-color: #000;
+    text-align: center;
+}
+.icono {
+    background-color: #25a3b7;
+    color: #ffffff;
+    min-height: 35px;
+}
+.card {
+    background-color: #25a3b7;
+    border-color: #ffffff;
+}
+.separador{
+    background-color: #25a3b7;
+    color: #25a3b7;
+    margin-bottom: 2.5rem;
+}
