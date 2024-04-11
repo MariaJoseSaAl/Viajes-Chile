@@ -22,6 +22,9 @@ body {
     background-color: #25a3b7;
     border-color: #ffffff;
 }
+.card-img-top{
+    height: 202.7px;
+}
 .separador{
     background-color: #25a3b7;
     margin-bottom: 2.5rem;
@@ -30,7 +33,7 @@ body {
     height: 80px;
 }
 #enviar {
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .pie-pagina {
     background-color: #25a3b7;
